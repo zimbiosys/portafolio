@@ -49,6 +49,7 @@ Administrativo:
 
 
 3.1. BACK END Y SERVICIO 
+
 3.1.1 SQL Server 2014
 
 Pros de utilizar esta tecnología:
@@ -135,9 +136,12 @@ Además permite controlar la creación de código HTML, CSS y JavaScript para pe
 
 
 3.4 TECNOLOGÍAS DE SOPORTE
+
 3.4.1 SOFTWARE
+
 3.4.1.1 IDE
-	3.4.1.2 Visual Studio 2022
+
+3.4.1.2 Visual Studio 2022
 
 
 1 - Visual ofrece un entorno completo integrado completo para el desarrollo de software, que incluye herramientas de edición de código, depuración, compilación y gestión de proyectos.
@@ -155,8 +159,9 @@ Porque se eligió?
 Se eligió Xamarin porque ya se tenía conocimiento de C# y programar en Android fue mucho más amigable.
 				
 	
-  3.4.1.2.2. Virtualización de Windows
-  3.4.1.2.2.1 VMWare 
+3.4.1.2.2. Virtualización de Windows
+
+3.4.1.2.2.1 VMWare 
 
 1 -  Virtualización es muy eficiente, emulando perfectamente el sistema operativo Windows que fue el utilizado en este proyecto
 
