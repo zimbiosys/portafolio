@@ -29,12 +29,19 @@ Chofer:
 Administrativo:
 
 ●	CRUD de Administrativos
+
 ●	CRUD Choferes
+
 ●	CRUD Empresas
+
 ●	CRUD de Paquetes
+
 ●	CRUD de Vehículos
+
 ●	CRUD de Solicitudes
+
 ●	Sanciones y suspensiones a Chofer
+
 Multas (asociadas a Vehículo y Chofer)
 
 
