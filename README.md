@@ -15,7 +15,8 @@ Se ideó una solución para una empresa que cumple con esta estructura: distribu
 
 Los usuarios del sistema son: Empleado (Chofer, Administrativo) y Clientes. Para autenticarse requieren nombre de usuario y clave de acceso. Luego de logueado cada usuario, accederá a la base de datos con el usuario SQL asociado a ese mismo usuario logueado.
 
-     Rol de cada Usuario en el Sistema:
+
+ROL DE CADA USUARIO EN EL SISTEMA:
 
 2.1. Actores primarios
 A continuación se detallan los actores y las tareas que va a ejecutar cada uno en el Sistema.
