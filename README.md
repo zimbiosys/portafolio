@@ -189,14 +189,10 @@ Contras:
  3.4.1.3. NO IP
 			Se utilizó este software para transformar la IP dinámica que da internet en una IP estática que es necesaria para poder acceder desde internet al Servidor IIS y sus aplicaciones.	               
 			
-		1 – Fácil configuración			
-					
-		
-		1 – Posibles problemas de fiabilidad: al depender de un servicio de terceros para asignar un nombre de dominio a una dirección IP dinámica, existe el riesgo de posibles interrupciones del servicio.
-
-		2 – Seguridad: al utilizar un servicio de DNS dinámico es necesario garantizar la seguridad de los dispositivos y servicio conectados, especialmente si se accede a ellos desde internet.
-
-		Se utilizó porque es la opción ideal para obtener una IP fija.
+1 – Fácil configuración	
+1 – Posibles problemas de fiabilidad: al depender de un servicio de terceros para asignar un nombre de dominio a una dirección IP dinámica, existe el riesgo de posibles interrupciones del servicio.
+2 – Seguridad: al utilizar un servicio de DNS dinámico es necesario garantizar la seguridad de los dispositivos y servicio conectados, especialmente si se accede a ellos desde internet.
+Se utilizó porque es la opción ideal para obtener una IP fija.
 
 
 3.4.1.4. API de Google Maps
