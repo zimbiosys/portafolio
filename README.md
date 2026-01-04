@@ -249,7 +249,7 @@ Me encargué completamente de todos los ciclos de desarrollo:
 
 
 5.	Lecciones aprendidas
-6.	
+
 Fue un proyecto desafiante y enriquecedor del cual se pueden enumerar una serie de lecciones aprendidas:
 
 – La gestión del tiempo y la dedicación fueron fundamentales, siendo necesario el enfoque a largo plazo y la perseverancia en la consecución de los objetivos a pesar de los desafíos.
