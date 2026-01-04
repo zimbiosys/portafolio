@@ -42,7 +42,7 @@ Administrativo:
 
 ●	Sanciones y suspensiones a Chofer
 
-Multas (asociadas a Vehículo y Chofer)
+●   Multas (asociadas a Vehículo y Chofer)
 
 
 3.	TECNOLOGÍAS 
