@@ -1,6 +1,7 @@
 1.	INTRODUCCIÓN
 
 ESTE ES UN PROYECTO FICTICIO USADO COMO PORTAFOLIO
+
 En un mercado cada vez más competitivo y en constante evolución, la eficiencia operativa es fundamental para cualquier empresa.
 Esta solución de software aborda el problema que cualquier empresa dedicada a la entrega de paquetes puede enfrentar, desde problemas con la optimización de sus procesos logísticos
 que le impiden cumplir con las expectativas de los clientes y mantener su posición en el mercado, hasta la reducción de pérdidas económicas, mejorar la eficiencia 
