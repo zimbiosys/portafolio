@@ -41,13 +41,13 @@ Tabla de contenido
 
 
 
-1.	INTRODUCCIÓN
+#1	INTRODUCCIÓN
 
 ESTE ES UN PROYECTO FICTICIO USADO COMO PORTAFOLIO
 En un mercado cada vez más competitivo y en constante evolución, la eficiencia operativa es fundamental para cualquier empresa. Esta solución de software aborda el problema que cualquier empresa dedicada a la entrega de paquetes puede enfrentar, desde problemas con la optimización de sus procesos logísticos que le impiden cumplir con las expectativas de los clientes y mantener su posición en el mercado, hasta la reducción de pérdidas económicas, mejorar la eficiencia y la calidad de los servicios de entrega de la empresa. Este software brinda a la empresa una herramienta integral para optimizar todas las etapas del proceso de entrega de paquetes, desde la recepción del pedido hasta la entrega final al cliente. 
 Este informe proporciona una visión general del proceso de desarrollo de software, sus características clave y beneficios esperados para la empresa. 
 
-2 DESCRIPCIÓN DEL NEGOCIO Y REQUERIMIENTOS
+#2 DESCRIPCIÓN DEL NEGOCIO Y REQUERIMIENTOS
 
 Se ideó una solución para una empresa que cumple con esta estructura: distribuye 3 tipos de paquete (frágil, común y bulto) en todos los departamentos de Uruguay utilizando como medio de transporte: auto, moto o camión.
 
@@ -343,6 +343,7 @@ Fue un proyecto desafiante y enriquecedor del cual se pueden enumerar una serie 
 6.	Documentación técnica disponible
 Este proyecto cuenta con documentación completa de Ingeniería de Software (requerimientos, casos de uso, diagramas, diseño técnico y plan de pruebas).
 Por razones de extensión y privacidad, no se publica aquí, pero puede solicitarse.
+
 
 
 
