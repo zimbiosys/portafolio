@@ -249,16 +249,24 @@ Me encargué completamente de todos los ciclos de desarrollo:
 
 
 5.	Lecciones aprendidas
+6.	
 Fue un proyecto desafiante y enriquecedor del cual se pueden enumerar una serie de lecciones aprendidas:
+
 – La gestión del tiempo y la dedicación fueron fundamentales, siendo necesario el enfoque a largo plazo y la perseverancia en la consecución de los objetivos a pesar de los desafíos.
+
 – Durante el desarrollo fue necesario enfrentar momentos de frustración y estrés siendo necesario para enfrentar un proyecto a largo plazo.
+
 – Se asumieron riesgos calculados, al enfrentar decisiones difíciles y al momento de elegir las tecnologías. Estos riesgos permitieron seguir avanzando y alcanzar las soluciones adecuadas.
+
 – Fue necesario ser flexible ante los cambios y los desafíos que surgieron a lo largo del proyecto.
+
 – Asumir riesgos en cuestiones técnicas desconocidas significó muchos errores  cometidos que fueron una valiosa enseñanza a lo largo de todo el proyecto. 
+
 – Fue fundamental desarrollar la capacidad de análisis profundo para detectar problemas y encontrar soluciones alternativas.
 
 
-6.	Documentación técnica disponible
+
+8.	Documentación técnica disponible
 Este proyecto cuenta con documentación completa de Ingeniería de Software (requerimientos, casos de uso, diagramas, diseño técnico y plan de pruebas).
 Por razones de extensión y privacidad, no se publica aquí, pero puede solicitarse.
 
