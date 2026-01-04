@@ -215,19 +215,27 @@ Es un plug in de Google Chrome, su función es grabar todas las interacciones de
 
 
 3.5	Distribución del software
+
 3.5.1	Versión en español
+
 3.5.1.1	Web
+
 https://ansuz.ddns.net/es
 
 3.5.1.2	App Android descargable (para testing)
+
 https://play.google.com/apps/testing/com.ansuzes.codecraft
 
 
 3.5.2	Versión en inglés
+
 3.5.2.1	Web
+
 https://ansuz.ddns.net/en
 
+
 3.5.2.2	App Android descargable (para testing)
+
 https://play.google.com/apps/testing/com.ansuzen.codecraft
 
 4.	Mi rol en el Proyecto
