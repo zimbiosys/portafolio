@@ -273,21 +273,21 @@ Por razones de extensión y privacidad, no se publica aquí, pero puede solicita
 
 /----------COMO USAR EL SISTEMA------------/
 
-DATOS DE ACCESO AL SISTEMA WEB:
+- DATOS DE ACCESO AL SISTEMA WEB (usuario Administrativo):
 
-usuario: ansuz
+  usuario: ansuz
 
-pass: aEr34! 
-
-
-DATOS ACCESO APP MOBILE (usuario Chofer):
-
-usuario: CREAR USUARIO
-
-pass: CREAR PASS
+  pass: aEr34! 
 
 
-DATOS ACCCESO CLIENTE (TIENE QUE REGISTRARSE EN EL SISTEMA)
+- DATOS ACCESO APP MOBILE (usuario Chofer):
+
+  usuario: CREAR USUARIO
+
+  pass: CREAR PASS
+
+
+- DATOS ACCCESO CLIENTE (TIENE QUE REGISTRARSE EN EL SISTEMA)
 
 
 
