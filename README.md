@@ -273,6 +273,8 @@ Por razones de extensión y privacidad, no se publica aquí, pero puede solicita
 
 
 
+
+
 /------------COMO USAR EL SISTEMA------------/
 
 - DATOS DE ACCESO AL SISTEMA WEB (usuario Administrativo):
