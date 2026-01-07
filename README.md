@@ -271,7 +271,9 @@ Este proyecto cuenta con documentación completa de Ingeniería de Software (req
 Por razones de extensión y privacidad, no se publica aquí, pero puede solicitarse.
 
 
-/----------COMO USAR EL SISTEMA------------/
+
+
+/------------COMO USAR EL SISTEMA------------/
 
 - DATOS DE ACCESO AL SISTEMA WEB (usuario Administrativo):
 
