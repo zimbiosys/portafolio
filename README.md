@@ -273,8 +273,6 @@ Por razones de extensión y privacidad, no se publica aquí, pero puede solicita
 
 
 
-
-
 /------------COMO USAR EL SISTEMA------------/
 
 - DATOS DE ACCESO AL SISTEMA WEB (usuario Administrativo):
@@ -291,7 +289,7 @@ Por razones de extensión y privacidad, no se publica aquí, pero puede solicita
   pass: CREAR PASS
 
 
-- DATOS ACCCESO CLIENTE (TIENE QUE REGISTRARSE EN EL SISTEMA)
+- DATOS ACCCESO COMO CLIENTE (TIENE QUE REGISTRARSE EN EL SISTEMA)
 
 
 
