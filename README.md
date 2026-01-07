@@ -270,7 +270,8 @@ Fue un proyecto desafiante y enriquecedor del cual se pueden enumerar una serie 
 Este proyecto cuenta con documentación completa de Ingeniería de Software (requerimientos, casos de uso, diagramas, diseño técnico y plan de pruebas).
 Por razones de extensión y privacidad, no se publica aquí, pero puede solicitarse.
 
-*********COMO USAR EL SISTEMA*******
+
+***********COMO USAR EL SISTEMA**********
 
 DATOS DE ACCESO AL SISTEMA WEB:
 
