@@ -58,6 +58,7 @@ Administrativo:
 3.1.1 SQL Server 2014
 
 Pros de utilizar esta tecnología:
+
 1 – Escalabilidad: SQL Server es conocido por ser capaz de manejar grandes cantidades de datos y escalabilidad vertical y horizontal. Puede crecer según las necesidades de la aplicación.
 
 2 - Seguridad: Proporciona cifrado de datos, autenticación integrada y control de acceso. Es fundamental para proteger la confidencialidad de los datos sensibles.
