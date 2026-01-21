@@ -25,7 +25,9 @@ ROL DE CADA USUARIO EN EL SISTEMA:
 A continuación se detallan los actores y las tareas que va a ejecutar cada uno en el Sistema.
 
 Chofer:
+
 ●	Cambio de Estado de Paquetes
+
 ●	Logueo
 
 
