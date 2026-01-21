@@ -13,7 +13,7 @@ Este informe proporciona una visión general del proceso de desarrollo de softwa
 
 2 DESCRIPCIÓN DEL NEGOCIO Y REQUERIMIENTOS
 
-Se ideó una solución para una empresa que cumple con esta estructura: distribuye 3 tipos de paquete (frágil, común y bulto) en todos los departamentos de Uruguay utilizando como medio de transporte: auto, moto o camión.
+Se ideó una solución para una empresa que tiene esta estructura: distribuye 3 tipos de paquete (frágil, común y bulto) en todos los departamentos de Uruguay utilizando como medio de transporte: auto, moto o camión.
 
 Los usuarios del sistema son: Empleado (Chofer, Administrativo) y Clientes. Para autenticarse requieren nombre de usuario y clave de acceso. Luego de logueado cada usuario, accederá a la base de datos con el usuario SQL asociado a ese mismo usuario logueado.
 
