@@ -21,6 +21,7 @@ Los usuarios del sistema son: Empleado (Chofer, Administrativo) y Clientes. Para
 ROL DE CADA USUARIO EN EL SISTEMA:
 
 2.1. Actores primarios
+
 A continuación se detallan los actores y las tareas que va a ejecutar cada uno en el Sistema.
 
 Chofer:
