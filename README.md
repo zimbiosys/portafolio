@@ -109,6 +109,7 @@ La url del servidor es:   http://ansuz.ddns.net
 
 
 3.3 FRONT END
+
 3.3.1 Xamarin  
 
 1 - Desarrollo multiplataforma: Xamarin permite el desarrollo de aplicaciones móviles para iOS, Android y Windows usando un único código base en C#, 
