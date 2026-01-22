@@ -66,7 +66,8 @@ Pros de utilizar esta tecnología:
 3 – Integración con otras herramientas de Microsoft: SQL Server se integra bien con otras herramientas y tecnologías de Microsoft, como .NET Framework, Visual Studio y Azure.
 Esto permite desarrollar e implementar soluciones completas.
 
-4 – Administración de datos: ofrece una amplia gama de herramientas de administración para respaldar tareas como copias de seguridad, recuperación ante desastres, mantenimiento de bases de datos y optimización de consultas.												
+4 – Administración de datos: ofrece una amplia gama de herramientas de administración para respaldar tareas como copias de seguridad, recuperación ante desastres, mantenimiento de bases de datos y optimización de consultas.
+
 Contras de utilizar esta tecnología:
 1 - 	Costo: puede ser costoso, especialmente para empresas pequeñas o startups.  	    
 Además puede requerir hardware potente.
