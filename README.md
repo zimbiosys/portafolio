@@ -90,6 +90,7 @@ Porqué SQL SERVER?
 
 
 3.1.2 SERVIDOR IIS ALOJADO LOCALMENTE
+
 1 – Se integra muy bien con Windows y es la opción por defecto para el alojamiento de aplicaciones web en el entorno de Windows Server.		
 
 2 – Rendimiento: tiene un rendimiento sólido y es capaz de manejar cargas pesadas de trabajo. Esta optimizado para trabajar con tecnologías Microsoft. 
