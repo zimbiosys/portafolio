@@ -244,7 +244,7 @@ https://ansuz.ddns.net/en
 https://play.google.com/apps/testing/com.ansuzen.codecraft
 
 4.	Mi rol en el Proyecto
-5.	
+   
 Me encargué completamente de todos los ciclos de desarrollo:
 - Análisis y relevamiento de requerimientos
 - Diseño funcional y técnico
