@@ -105,7 +105,7 @@ Porqué SQL SERVER?
 
 Se eligió esta tecnología porque se esta trabajando con aplicaciones nativas Microsoft, y éste servidor es ideal para ejecutarlas todas.	
 
-La url del servidor es:   http://ansuz.ddns.net
+La url del servidor es:   https://ansuz.ddns.net
 
 
 3.3 FRONT END
