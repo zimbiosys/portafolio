@@ -1,4 +1,6 @@
-*** EN CASO DE SER NECESARIO, SOLICITAR ACCESO AL DOCUMENTO DE SOFTWARE COMPLETO ***
+*** ESTE PROYECTO INCLUYE DOCUMENTACIÓN COMPLETA DE INGENIERÍA DE SOFTWARE (REQUERIMIENTOS, CASOS DE USO, DIAGRAMAS, DISEÑO TÉCNICO Y PLAN DE TESTING).
+
+POR RAZONES DE PRIVACIDAD NO SE PUBLICA AQUÍ, PERO PUEDE SOLICTARSE. ***
 
 1.	INTRODUCCIÓN
 
@@ -260,13 +262,13 @@ Fue un proyecto desafiante y enriquecedor del cual se pueden enumerar una serie 
 
 – La gestión del tiempo y la dedicación fueron fundamentales, siendo necesario el enfoque a largo plazo y la perseverancia en la consecución de los objetivos a pesar de los desafíos.
 
-– Durante el desarrollo fue necesario enfrentar momentos de frustración y estrés siendo necesario para enfrentar un proyecto a largo plazo.
+– Durante el desarrollo fue inevitable enfrentar momentos de frustración y estrés siendo necesaria la resiliencia para manejar un proyecto a largo plazo.
 
-– Se asumieron riesgos calculados, al enfrentar decisiones difíciles y al momento de elegir las tecnologías. Estos riesgos permitieron seguir avanzando y alcanzar las soluciones adecuadas.
+– Se asumieron riesgos calculados, al enfrentar decisiones difíciles y al momento de elegir las tecnologías. Estos riesgos permitieron seguir avanzando y desarrollar las soluciones adecuadas.
 
-– Fue necesario ser flexible ante los cambios y los desafíos que surgieron a lo largo del proyecto.
+– Fue necesario ser flexible contra los cambios y los desafíos que surgieron a lo largo del proyecto.
 
-– Asumir riesgos en cuestiones técnicas desconocidas significó muchos errores  cometidos que fueron una valiosa enseñanza a lo largo de todo el proyecto. 
+– Asumir riesgos en cuestiones técnicas desconocidas significó muchos errores cometidos que fueron una valiosa enseñanza a lo largo de todo el proyecto. 
 
 – Fue fundamental desarrollar la capacidad de análisis profundo para detectar problemas y encontrar soluciones alternativas.
 
@@ -298,7 +300,7 @@ Por razones de extensión y privacidad, no se publica aquí, pero puede solicita
   pass: CREAR PASS
 
 
-- DATOS ACCCESO COMO CLIENTE (TIENE QUE REGISTRARSE EN EL SISTEMA)
+- DATOS ACCCESO COMO CLIENTE (TIENE QUE REGISTRARSE EN EL SISTEMA WEB)
 
 
 
