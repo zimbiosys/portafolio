@@ -125,11 +125,14 @@ acelerando mucho el proceso de desarrollo y reduciendo costos.
 
 
 1 – Curva de aprendizaje 
+
 Para este proyecto al inicio la curva de aprendizaje fue muy grande, debido al desconocimiento de desarrollo de APIs (solo WCF a lo largo de la carrera), 
 se debió aprender a programar de forma sincrónica y asincrónica y a desarrollar y conectar con la API.
 
 2 – Compatibilidades y actualizaciones
-Problemas de compatibilidad porque depende de los cambios y actualizaciones de las plataformas nativas iOS y Android. Pueden haber demoras en la disponibilidad de las compatibilidades con esas aplicaciones. 																				
+
+Problemas de compatibilidad porque depende de los cambios y actualizaciones de las plataformas nativas iOS y Android. Pueden haber demoras en la disponibilidad de las compatibilidades con esas aplicaciones. 			
+
 Porque se eligió?
 -	Porque ya se conocía de antemano el lenguaje C#.
 -	Es multiplataforma y se puede tener acceso a las API nativas de iOS y Android.
@@ -160,10 +163,6 @@ Además permite controlar la creación de código HTML, CSS y JavaScript para pe
 3 – amplia comunidad y soporte.
 Cuenta con una gran comunidad de desarrolladores y una amplia gama de recursos de aprendizaje, documentación  y soporte en línea.
 
-1 – consumo de recursos: puede ser exigente en proyectos grandes, afectando el rendimiento. En este proyecto, el emulador de android tardaba entre 30 y 40 minutos en iniciarse, corriendo en un equipo Core I3 de 12 Gb de Ram,
-
-2 – la curva de aprendizaje puede ser muy importante para nuevos desarrolladores de nuevas tecnologías y/o lenguajes.
-
 Porque se eligió?
 
 Se eligió Xamarin porque ya se tenía conocimiento de C# y programar en Android fue mucho más amigable.
@@ -177,7 +176,7 @@ Se eligió Xamarin porque ya se tenía conocimiento de C# y programar en Android
 
 2 – Amplia compatibilidad: es compatible con muchos sistemas operativos
 
-3 – Funciones avanzadas: ofrece características como migración en caliente (trasladar la máquina virtual a un nuevo host sin apagarla), alta disponibilidad, recuperación ante desastres, 
+3 – Funciones avanzadas: ofrece características como migración en caliente (trasladar la máquina virtual a un nuevo host sin apagarla), alta disponibilidad, recuperación ante desastres, etc.
 
 4 – En la virtualización se ejecutan efectivamente:
 -	Servidor IIS
@@ -187,20 +186,14 @@ Se eligió Xamarin porque ya se tenía conocimiento de C# y programar en Android
 		
 
 
-Contras:
-
-1 – Para usuarios novatos puede ser compleja la configuración y la implementación, en el caso de este proyecto ya se contaba con experiencia previa virtualizando sistemas Windows.
-
-2 – Requisitos de hardware: puede requerir hardware específico y potente aumentando los costos y limitando la escalabilidad a pequeñas organizaciones.
-
- A pesar de las contras, se utilizó este virtualizador porque se tiene experiencia en anteriores implementaciones con muy buen funcionamiento y disponibilidad de todos los servicios.
-	
-
  3.4.1.3. NO IP
  
 Se utilizó este software para transformar la IP dinámica que da internet en una IP estática que es necesaria para poder acceder desde internet al Servidor IIS y sus aplicaciones.	               
+Ventajas de usar ésta tecnología:
 			
 1 – Fácil configuración	
+
+Posibles riesgos de uso de ésta tecnología:
 
 1 – Posibles problemas de fiabilidad: al depender de un servicio de terceros para asignar un nombre de dominio a una dirección IP dinámica, existe el riesgo de posibles interrupciones del servicio.
 
@@ -218,6 +211,8 @@ Ofrece una amplia gama de funcionalidades desde visualización de mapas interact
 Las pruebas de carga y estrés son técnicas fundamentales en el desarrollo de software para evaluar el rendimiento de una aplicación en condiciones de carga simulada. 
 JMeter es una herramienta de código abierto desarrollada por Apache y es muy popular para realizar estas pruebas. 
  JMeter simula el comportamiento de usuarios reales interactuando con el Sistema de forma simultánea aumentando considerablemente la carga de trabajo en los sistemas. Las pruebas de estrés implican someter la aplicación a cargas extremas para evaluar el comportamiento en condiciones límite llegando a su capacidad máxima, o superarla para identificar cuellos de botella.
+
+ 
 3.4.1.6 Blazemeter
 
 Es un plug in de Google Chrome, su función es grabar todas las interacciones del usuario con el explorador. Esas interacciones grabadas se pueden exportar a un archivo  .Jmx para poder ser ejecutados con JMeter. Entre otras cosas, se pueden grabar inicios de sesión para poder hacer cargas de estrés más específicas.  
@@ -279,6 +274,9 @@ Fue un proyecto desafiante y enriquecedor del cual se pueden enumerar una serie 
 8.	Documentación técnica disponible
 Este proyecto cuenta con documentación completa de Ingeniería de Software (requerimientos, casos de uso, diagramas, diseño técnico y plan de pruebas).
 Por razones de extensión y privacidad, no se publica aquí, pero puede solicitarse.
+
+
+
 
 
 
